@@ -1,2 +1,2 @@
 # Devtown_Robinson_samPaul02
-Basic Hotstar Clone
+Instagram Home Page Clone using HTML and CSS
